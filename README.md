@@ -57,7 +57,8 @@ knn Python-скрипт (Cr)
 
 <img width="1712" height="637" alt="image" src="https://github.com/user-attachments/assets/29832963-bb36-4895-938f-40381f39bee0" />
 
-<img width="1468" height="581" alt="image" src="https://github.com/user-attachments/assets/7ec9ff0f-f09f-4372-972e-3fbab6c43d52" />
+<img width="1348" height="733" alt="image" src="https://github.com/user-attachments/assets/75897f2f-e243-44c2-9dc3-9c94cb54e1fe" />
+
 
 
 

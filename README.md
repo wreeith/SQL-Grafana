@@ -53,6 +53,14 @@ knn Python-скрипт (Cr)
 
 <img width="1660" height="927" alt="image" src="https://github.com/user-attachments/assets/9bade872-d58a-4b6d-b8d1-e5f6816e8106" />
 
+<img width="1468" height="581" alt="image" src="https://github.com/user-attachments/assets/a0e67384-02f1-4b98-8c5f-7c39559056fa" />
+
+<img width="1712" height="637" alt="image" src="https://github.com/user-attachments/assets/29832963-bb36-4895-938f-40381f39bee0" />
+
+<img width="1468" height="581" alt="image" src="https://github.com/user-attachments/assets/7ec9ff0f-f09f-4372-972e-3fbab6c43d52" />
+
+
+
 
 
 

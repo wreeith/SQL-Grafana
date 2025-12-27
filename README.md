@@ -17,6 +17,7 @@ knn Python-скрипт (Cr)
 Проводить кластеризацию, визуализировать результаты или оценивать качество кластеризации.
 Сохранять результаты (например, метки кластеров, центроиды) в файлы.
 
+Примеры sql запросов в PostgreSQL
 
 ## Топ 10 закупок
 <img width="1668" height="761" alt="image" src="https://github.com/user-attachments/assets/0be48bcc-1dff-441d-b7ef-ecec2adb4b8d" />
